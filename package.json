@@ -11,6 +11,7 @@
         "node-red": "0.x",
         "node-red-bluemix-nodes":"1.x",
         "node-red-node-watson":"0.x",
+        "node-red-contrib-watson-content-hub":"0.x",
         "node-red-node-openwhisk":"0.x",
         "node-red-node-cf-cloudant":"0.x",
         "node-red-contrib-scx-ibmiotapp":"0.x",
